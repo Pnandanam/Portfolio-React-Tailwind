@@ -7,13 +7,13 @@ const Home = () => {
   return (
     <div
       name="home"
-      className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-800"
+      className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-800 pt-40"
     >
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
-          <h1 className="text-4xl sm:text-7xl font-bold text-white">
+          <h2 className="text-4xl sm:text-7xl font-bold text-white">
             I am a Front-end Developer
-          </h1>
+          </h2>
           <p className="text-gray-500 py-4 max-w-md">
             As a front-end developer with a master's in web development and
             hands-on experience in crafting dynamic and responsive web

@@ -4,11 +4,11 @@ const About = () => {
   return (
     <div
       name="about"
-      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
+      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white pt-20"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         {/* Section Title */}
-        <div className="pb-8">
+        <div className="pb-2">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             About
           </p>
@@ -16,11 +16,8 @@ const About = () => {
 
         {/* Section Content */}
         <p className="text-xl mt-10">
-          I’m Pratyusha, a passionate front-end developer with a master’s degree
-          in web development and hands-on experience in creating engaging,
-          dynamic web applications. I specialize in building user-friendly,
-          responsive interfaces using technologies like React, Tailwind CSS,
-          Next.js, and GraphQL.
+          I’m Pratyusha, a passionate front-end developer with hands-on
+          experience in creating engaging, dynamic web applications.
         </p>
 
         <br />
