@@ -8,7 +8,7 @@ const Portfolio = () => {
       src: weatherImage,
       title: "Weather App",
       demo: "https://merry-jalebi-09cf18.netlify.app/",
-      code: " ",
+      code: "https://github.com/Pnandanam/weather-app",
     },
     {
       id: 2,
