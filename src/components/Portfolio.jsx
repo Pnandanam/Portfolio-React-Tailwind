@@ -1,5 +1,5 @@
 import React from "react";
-import weatherImage from "../assests/Weather.png";
+import weatherImage from "../assets/Weather.png";
 
 const Portfolio = () => {
   const portfolios = [
