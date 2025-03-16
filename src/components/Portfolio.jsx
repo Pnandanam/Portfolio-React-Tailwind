@@ -1,13 +1,14 @@
 import React from "react";
+import weatherImage from "../assests/Weather.png";
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: "https://via.placeholder.com/300",
-      title: "Project 1",
-      demo: "#",
-      code: "#",
+      src: weatherImage,
+      title: "Weather App",
+      demo: "https://merry-jalebi-09cf18.netlify.app/",
+      code: " ",
     },
     {
       id: 2,
